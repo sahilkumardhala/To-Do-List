@@ -1,5 +1,4 @@
-![image](https://github.com/sahilkumardhala/To-Do-List/blob/main/bg.jpg)
-![image](https://github.com/sahilkumardhala/To-Do-List/blob/main/bg.jpg)
+
 # ToDo List App
 # https://sahilkumardhala.github.io/To-Do-List/
 This is a simple ToDo list application where you can add, delete, and mark tasks as complete.
