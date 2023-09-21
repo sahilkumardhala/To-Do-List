@@ -4,7 +4,7 @@
 This is a simple ToDo list application where you can add, delete, and mark tasks as complete.
 ![project Screenshots](https://github.com/sahilkumardhala/To-Do-List/blob/main/Screenshot.jpg)
 
-<img align="right" src="https://static01.nyt.com/images/2020/05/21/reader-center/21burst-to-do-list/21burst-to-do-list-blog480-v2.gif" />
+<img align="right" width="350" src="https://static01.nyt.com/images/2020/05/21/reader-center/21burst-to-do-list/21burst-to-do-list-blog480-v2.gif" />
 
 ## Features
 
