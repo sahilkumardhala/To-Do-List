@@ -3,6 +3,9 @@
 # https://sahilkumardhala.github.io/To-Do-List/
 This is a simple ToDo list application where you can add, delete, and mark tasks as complete.
 ![project Screenshots](https://github.com/sahilkumardhala/To-Do-List/blob/main/Screenshot.jpg)
+
+<img align="right" src="https://static01.nyt.com/images/2020/05/21/reader-center/21burst-to-do-list/21burst-to-do-list-blog480-v2.gif" />
+
 ## Features
 
 - Add a new task: Enter a task in the input field and click "Add Task" to add it to the list.
@@ -22,3 +25,4 @@ Feel free to customize and expand upon this ToDo list application to suit your n
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
