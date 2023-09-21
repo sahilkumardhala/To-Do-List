@@ -2,7 +2,7 @@
 # ToDo List App
 # https://sahilkumardhala.github.io/To-Do-List/
 This is a simple ToDo list application where you can add, delete, and mark tasks as complete.
-
+![project Screenshots](https://github.com/sahilkumardhala/To-Do-List/blob/main/Screenshot.jpg)
 ## Features
 
 - Add a new task: Enter a task in the input field and click "Add Task" to add it to the list.
